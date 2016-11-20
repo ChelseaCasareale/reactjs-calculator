@@ -1,0 +1,35 @@
+button {
+  background-color: #2e1f3f;
+  box-shadow: none;
+  outline: none;
+  border: none;
+  height: 100px;
+  font-size: 2em;
+  }
+
+button:hover {
+  background-color: #e1d2ff;
+  transition: background-color 500ms;
+  }
+
+.num {
+  color: #8a4dff;
+  }
+
+.ac,
+.ce,
+.sign,
+.equal-sign {
+  color: #ba006a;
+  }
+
+.ac:hover,
+.ce:hover,
+.sign:hover,
+.equal-sign:hover {
+  background-color: #e264ac;
+  }
+
+.equal-sign {
+  height: 200px;
+  }

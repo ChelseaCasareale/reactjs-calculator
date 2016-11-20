@@ -1,0 +1,10 @@
+.calc-container {
+  background-color: #1a1a1a;
+  padding: 0;
+  }
+
+  @media (min-width: 992px) {
+    .calc-container {
+      margin-top: 20px;
+      }
+  }

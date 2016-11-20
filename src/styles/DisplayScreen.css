@@ -1,0 +1,17 @@
+.display-screen {
+  background-color: #1a1a1a;
+  padding: 1em 1em;
+  border-bottom: 6px #666 solid;
+  }
+
+.display-screen .current-input {
+  font-size: 3em;
+  text-align: right;
+  color: #ba006a;
+  }
+  
+.display-screen .current-calculation {
+  font-size: 1.5em;
+  color: #8a4dff;
+  text-align: right;
+  }
