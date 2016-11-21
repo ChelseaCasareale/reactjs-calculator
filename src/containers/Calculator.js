@@ -46,7 +46,7 @@ class Calculator extends React.Component {
       }, () => console.log(this.state));
     } else {
       this.setState({
-        calculation: [...prevState.total, prevState.currentSign],
+        calculation: [prevState.total, prevState.currentSign],
         total: 0,
         numDisplay: []
       }, () => console.log(this.state));
